@@ -1,0 +1,4 @@
+<!--miniprogram/pages/moments/moments.wxml-->
+<view style="height: 100vh; width: 100%; display: flex; jusitfy-content: center; align-items: center">
+  <text style="width: 100%; text-align: center;">点击右上角分享按钮可分享至朋友圈</text>
+</view>

@@ -1,0 +1,4 @@
+<!--miniprogram/pages/messageSend/messageSend.wxml-->
+<view style="height: 100vh; width: 100%; display: flex; jusitfy-content: center; align-items: center">
+  <button type="primary" bindtap="messageSend">点击推送一条消息</button>
+</view>
